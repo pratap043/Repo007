@@ -3,12 +3,12 @@
 	xmlns:cws="http://schemas.cordys.com/cws/1.0"
 	type="com.cordys.cws.documenttypes.project.Project"
 	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
-	RuntimeDocumentID="28DFEB6B-98A5-A1EC-B6A2-4467F4CB0982">
-	<DocumentID>28DFEB6B-98A5-A1EC-B6A2-4467F4CAC982</DocumentID>
-	<Name>Project011</Name>
-	<Description>Project011</Description>
+	RuntimeDocumentID="28DFEB6B-98A5-A1EC-B6A8-505A96980982">
+	<DocumentID>28DFEB6B-98A5-A1EC-B6A8-505A9697C982</DocumentID>
+	<Name>TestProject01</Name>
+	<Description>TestProject01</Description>
 	<CreatedBy>sysadmin</CreatedBy>
-	<CreationDate>2022-05-23T11:12:15.346</CreationDate>
+	<CreationDate>2022-05-23T14:05:01.983</CreationDate>
 	<Notes/>
 	<NamespacePrefix></NamespacePrefix>
 	<Configurations/>
@@ -16,20 +16,20 @@
 		<ISVPackageInfo
 			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
 			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
-			RuntimeDocumentID="28DFEB6B-98A5-A1EC-B6A2-4467F4C9C982">
-			<DocumentID>28DFEB6B-98A5-A1EC-B6A2-4467F4C98982</DocumentID>
-			<Name>My Company Project01</Name>
-			<Description>My Company Project01</Description>
+			RuntimeDocumentID="28DFEB6B-98A5-A1EC-B6A8-505A9696C982">
+			<DocumentID>28DFEB6B-98A5-A1EC-B6A8-505A96968982</DocumentID>
+			<Name>My Company TestProject01</Name>
+			<Description>My Company TestProject01</Description>
 			<CreatedBy>sysadmin</CreatedBy>
-			<CreationDate>2022-05-23T11:12:15.346</CreationDate>
+			<CreationDate>2022-05-23T14:05:01.983</CreationDate>
 			<Notes/>
 			<BuildNumber>0</BuildNumber>
 			<GenerateModelPackage>false</GenerateModelPackage>
-			<ISVPackageFileName>My Company Project01 1.0.0</ISVPackageFileName>
+			<ISVPackageFileName>My Company TestProject01 1.0.0</ISVPackageFileName>
 			<ISVPackageOwner>My Company</ISVPackageOwner>
 			<PackageForRuntime>true</PackageForRuntime>
 			<PostISVLoaderInformation/>
-			<Product>Project01</Product>
+			<Product>TestProject01</Product>
 			<SupportedDeploymentSpaces
 				xmlns:cws="http://schemas.cordys.com/cws/1.0"
 				cws:type="collection:string">
@@ -43,8 +43,8 @@
 	<RuntimeQualifiedName/>
 	<SourceFolder>
 		<uri
-			id="28DFEB6B-98A5-A1EC-B6A4-987C53380982"
-			path="Project011"
+			id="28DFEB6B-98A5-A1EC-B6A8-505A96974982"
+			path="TestProject01"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>
 	</SourceFolder>
@@ -52,48 +52,48 @@
 		<TranslationInformation
 			type="com.cordys.translation.TranslationInformation"
 			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
-			RuntimeDocumentID="28DFEB6B-98A5-A1EC-B6A2-4467F4C94982">
-			<DocumentID>28DFEB6B-98A5-A1EC-B6A2-4467F4C90982</DocumentID>
+			RuntimeDocumentID="28DFEB6B-98A5-A1EC-B6A8-505A96964982">
+			<DocumentID>28DFEB6B-98A5-A1EC-B6A8-505A96960982</DocumentID>
 			<Name>TranslationInformation</Name>
 			<Description>TranslationInformation</Description>
 			<CreatedBy>sysadmin</CreatedBy>
-			<CreationDate>2022-05-23T11:12:15.345</CreationDate>
+			<CreationDate>2022-05-23T14:05:01.983</CreationDate>
 			<Notes/>
 			<LanguagePacks>
 				<LanguagePack
 					type="com.cordys.translation.LanguagePack"
 					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
-					RuntimeDocumentID="28DFEB6B-98A5-A1EC-B6A2-4467F4C84982">
-					<DocumentID>28DFEB6B-98A5-A1EC-B6A2-4467F4C80982</DocumentID>
+					RuntimeDocumentID="28DFEB6B-98A5-A1EC-B6A8-505A96954982">
+					<DocumentID>28DFEB6B-98A5-A1EC-B6A8-505A96950982</DocumentID>
 					<Name>en-US</Name>
 					<Description>en-US</Description>
 					<CreatedBy>sysadmin</CreatedBy>
-					<CreationDate>2022-05-23T11:12:15.346</CreationDate>
+					<CreationDate>2022-05-23T14:05:01.983</CreationDate>
 					<Notes/>
 					<Language>English - United States</Language>
 					<Texts>
 						<uri
-							id="28DFEB6B-98A5-A1EC-B6A2-4467F4C78982"
-							path="Project011/en-US_28DFEB6B-98A5-A1EC-B6A2-4467F4C78982"
+							id="28DFEB6B-98A5-A1EC-B6A8-505A96948982"
+							path="TestProject01/en-US_28DFEB6B-98A5-A1EC-B6A8-505A96948982"
 							type="com.cordys.cws.associations.MergeableAssociation"
 						/>
 					</Texts>
 					<TranslationInformation>
 						<uri
-							id="28DFEB6B-98A5-A1EC-B6A2-4467F4C90982"
+							id="28DFEB6B-98A5-A1EC-B6A8-505A96960982"
 						/>
 					</TranslationInformation>
 				</LanguagePack>
 			</LanguagePacks>
 			<ProjectLanguage>
 				<uri
-					id="28DFEB6B-98A5-A1EC-B6A2-4467F4C80982"
+					id="28DFEB6B-98A5-A1EC-B6A8-505A96950982"
 				/>
 			</ProjectLanguage>
 			<Texts>
 				<uri
-					id="28DFEB6B-98A5-A1EC-B6A2-4467F4C88982"
-					path="Project011/TranslationInformation_28DFEB6B-98A5-A1EC-B6A2-4467F4C88982"
+					id="28DFEB6B-98A5-A1EC-B6A8-505A96958982"
+					path="TestProject01/TranslationInformation_28DFEB6B-98A5-A1EC-B6A8-505A96958982"
 					type="com.cordys.cws.associations.MergeableAssociation"
 				/>
 			</Texts>
